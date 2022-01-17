@@ -1,0 +1,19 @@
+{
+  "name": "comp-229---week-1-repo",
+  "version": "1.0.0",
+  "description": "First test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmmunoz14/COMP-229---Week-1-repo.git"
+  },
+  "author": "Juan Manuel Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmmunoz14/COMP-229---Week-1-repo/issues"
+  },
+  "homepage": "https://github.com/jmmunoz14/COMP-229---Week-1-repo#readme"
+}
